@@ -1,0 +1,22 @@
+Clonar um repositório
+git clone "HTTP.."
+
+Abrir o repositório
+cd "nome do repositório"
+
+Verificar Status
+git status
+
+Adicionar arquivos ao repositório
+git add .
+git status
+
+Adicionar commit
+git commit -m "Cometário Coeso"
+
+Enviar para núvem (GitHub)
+git push origin main 
+
+
+
+Escrito por Caio Bello Março/2023
