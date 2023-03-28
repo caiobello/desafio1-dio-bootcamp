@@ -1,4 +1,4 @@
-# Primeiro desafio BootCamp dio
+# Primeiro desafio no BootCamp Dio
 Repositório criado para o Desafio de Projeto sobre Git/Github.
 As atualizações de arquivos foram feitas via Git, através do GitBash.
 
